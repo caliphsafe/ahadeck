@@ -15,9 +15,9 @@ A $1,500 sponsorship opportunity coordinated with AHA. Sponsors may support the 
 ## Budget
 - SBoogz: $300
 - Seven videos at $50: $350
-- Facebook advertising: $430
-- Recording, editing and ad curation: $350
-- Printed cards: $70 (upper end of $50–$70 estimate)
+- Facebook advertising: $500
+- Recording, editing and ad curation: $250
+- Printed cards: $100 (upper end of $70–$100 estimate)
 - Total pilot budget: $1,500
 Waterfront supplies the packs, discounts and grand prize. No decoration allocation.
 
