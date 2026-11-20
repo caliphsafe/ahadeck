@@ -1,5 +1,5 @@
 # AHA Collectors Challenge
-Interactive website proposal curated by Abdou “Caliph” Doumbouya for December AHA, Thursday December 10, 2026.
+Interactive website proposal curated by Abdou “Caliph” Doumbouya for AHA in Spring 2027. The exact event date is to be selected with AHA.
 
 ## Run and deploy
 Dependency-free static HTML, CSS, and JavaScript. Serve this directory with any static web server. Vercel project: ahadeck, production branch: main. No package installation or build required.
