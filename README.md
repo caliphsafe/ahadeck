@@ -25,4 +25,4 @@ Waterfront supplies the packs, discounts and grand prize. No decoration allocati
 Sources, dates, populations and data limits appear in the final chapter. SBoogz metrics are organizer-supplied pending analytics verification. Partner confirmations, event hours/capacity, reward mix, grand prize, and live QR redemption setup remain event planning items.
 
 ## Controls
-Scroll freely; use previous/next controls or left/right arrow keys outside interactive controls. Chapter menu links are shareable. Research tabs support arrows, Home and End. Print button opens the browser print dialog, including all research panels and sources.
+Scroll freely; use previous/next controls or left/right arrow keys outside interactive controls. Chapter menu links are shareable. Research tabs support arrows, Home and End.

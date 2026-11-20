@@ -105,7 +105,6 @@
   let sourceOpenBeforePrint = false;
   window.addEventListener('beforeprint', () => { sourceOpenBeforePrint = sources.open; sources.open = true; });
   window.addEventListener('afterprint', () => { sources.open = sourceOpenBeforePrint; });
-  document.getElementById('printDeck').addEventListener('click', () => window.print());
   revealSource(location.hash);
   renderPosition();
 })();
