@@ -7,7 +7,7 @@ Dependency-free static HTML, CSS, and JavaScript. Serve this directory with any 
 ## Scope
 12 presentation chapters, responsive navigation, sample card flip, accessible research tabs, linked sources, and print styles. This is a proposal, not a production QR reward/redemption application.
 
-50 cards, one per person for the entire event, free distribution across five proposed downtown collection stops. Waterfront Card Shop is the separate final destination. No Problemo, ShopU7, Calico, and Play Arcade are proposed; the fifth stop is TBD.
+50 cards, one per person for the entire event, free distribution across five proposed downtown collection stops. Waterfront Card Shop is the separate final destination. No Problemo, ShopU7, Calico, Play Arcade, and Shimmer are the five proposed collection stops.
 
 ## Sponsorship & budget ownership
 A $1,500 sponsorship opportunity coordinated with AHA. Sponsors may support the full pilot or individual costs. AHA retains budget ownership, allocation and spending oversight.
